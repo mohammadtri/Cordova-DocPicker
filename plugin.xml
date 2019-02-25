@@ -15,7 +15,7 @@
 
         <source-file src="src/ios/DocumentPicker.swift" />
 
-        <dependency id="cordova-plugin-add-swift-support" version="1.6.1"/>
+        <dependency id="cordova-plugin-add-swift-support"/>
     </platform>
 
 </plugin>
